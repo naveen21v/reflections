@@ -26,7 +26,8 @@ branches are useful.
 
 How do the diagrams help you visualize the branch structure?
 
->
+> Diagrams help in visualizing the various branches and also various commits involved
+in each of the branches.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?

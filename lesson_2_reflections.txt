@@ -32,7 +32,9 @@ in each of the branches.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
->
+> Merging two branches will ensures the features from both are consolidated and
+available in one unified branch. Representing the branches and merges in a diagram
+will make it easier to visualize the changes.
 
 
 What are the pros and cons of Git's automatic merging vs. always doing merges

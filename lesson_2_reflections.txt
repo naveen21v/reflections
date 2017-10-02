@@ -40,5 +40,7 @@ will make it easier to visualize the changes.
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
 
->
+> Automatic merging will be useful in case of simple changes in two different branches.
+However, in a real-world scenario, the changes might be complex and in the same section
+of the code and therefore, manual merge is preferred.
 

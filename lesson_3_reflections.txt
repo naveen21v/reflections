@@ -27,7 +27,8 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    It enables to understand if the local branch is out of synch with last known
+    snapshot of the remote.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?

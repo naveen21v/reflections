@@ -41,4 +41,7 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When the changes to be reviewed and tested before merging into the stable production
+    branch, other seperate branches are helpful. If a single use is working, then
+    probably seperate branches might not be required to speed up the overall coding
+    and testing time.
